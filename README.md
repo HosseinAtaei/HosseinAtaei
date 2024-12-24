@@ -7,9 +7,9 @@
 
 ### 🌟 About Me
 
-- 💻 **Role**: [Front-End Developer]
-- 🌍 **Location**: [Tehran,Iran]
-- 🛠️ **Tech Stack**: [React, Next.js, JavaScript, Tailwind CSS]
+- 💻 **Role**: Front-End Developer
+- 🌍 **Location**: Tehran,Iran
+- 🛠️ **Tech Stack**: React, Next.js, JavaScript, Tailwind CSS
 
 ---
 
