@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000" alt="Next.js">
   <img src="https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwindcss&color=38B2AC" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032" alt="Git">
 </p>
